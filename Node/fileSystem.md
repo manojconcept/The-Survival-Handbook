@@ -337,3 +337,7 @@ fs.watch('path/to/file.txt', (eventType, filename) => {
 ### Conclusion
 
 The `fs` module in Node.js provides a robust set of tools for interacting with the file system. Whether you're reading, writing, appending, deleting, renaming files, or working with directories, the `fs` module has methods to handle both asynchronous and synchronous operations. Understanding these methods and their proper usage is crucial for effectively managing files and directories in your Node.js.
+
+### Reference
+
+[MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)

@@ -414,3 +414,6 @@ Understanding and practicing these stages and operators will help you handle a v
    ```
 
 These are the foundational queries and commands you need to know for MongoDB. During an interview, you may be asked to perform specific tasks or solve problems using these commands. Make sure you understand the syntax and the context in which each command is used. Practice writing and executing these queries to build your confidence.
+
+### Reference
+[MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)

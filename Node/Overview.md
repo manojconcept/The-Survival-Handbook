@@ -307,4 +307,4 @@ app.options('/users', (req, res) => {
 
 ### Summary
 
-Handling HTTP methods in Node.js with Express.js involves understanding how to manipulate the `req` and `res` objects effectively. Each method (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`, `HEAD`, `OPTIONS`) serves a specific purpose and comes with its own set of characteristics. Knowing how to utilize the request parameters, body, headers, and how to send appropriate responses is crucial for building robust and efficient web applications.
+Handling HTTP methods in Node.js with Express.js involves understanding how to manipulate the `req` and `res` objects effectively. Each method (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`, `HEAD`, `OPTIONS`) serves a specific purpose and comes with its own set of characteristics. Knowing how to utilize the request parameters, body, headers, and how to send appropriate responses is crucial for building robust and efficient web applications.   

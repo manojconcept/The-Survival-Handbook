@@ -340,4 +340,3 @@ The `fs` module in Node.js provides a robust set of tools for interacting with t
 
 ### Reference
 
-[MongoDB Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
